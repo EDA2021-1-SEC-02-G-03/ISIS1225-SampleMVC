@@ -83,8 +83,8 @@ while True:
     # TO-DO: Modificaciones para completar el laboratorio 1.
     elif int(inputs[0]) == 3:
         print("Cargando información de tags-libros....")
-        tags = loadBook_tags()
-        print('Total de libors-tags cargados: ' + str(lt.size(book)))
+        book_tags = loadBook_tags()
+        print('Total de libors-tags cargados: ' + str(lt.size(book_tags)))
     else:
         sys.exit(0)
 sys.exit(0)
