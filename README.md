@@ -6,6 +6,12 @@ Esta organización es una sugerencia que puede ser adaptada a  las necesidades y
 
 La estructura tiene los siguiente directorios y archivos:
 
+-Integrantes:
+
+Juan Camilo Colmenares Ortiz - j.colmenares@uniandes.edu.co - 202011866
+
+Juan Andres Ospina Sabogal - ja.ospinas1@uniandes.edu.co - 202021727 
+
 -App
 
 Este directorio se utiliza para los archivos python desarrollados para responder a los retos del curso. Acá se pueden tener todos los archivos python que se necesiten

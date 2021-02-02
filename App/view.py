@@ -39,7 +39,6 @@ operación solicitada
 
 
 def printMenu():
-    print("Hola Camilo, si ves esto lo logramos")
     print("Opciones:")
     print("1- Cargar Libros")
     print("2- Cargar Tags")
